@@ -1,4 +1,3 @@
-# -
 # Asymmetric-C-H-activation-dataset
 This repository contains the dataset and code for the undergraduate thesis "Construction and Modeling Study of Asymmetric Catalytic Transformations Dataset of Carbon-Hydrogen Bond".
 
